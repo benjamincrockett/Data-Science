@@ -1,0 +1,1 @@
+This project is focused on querrying InfluxDB 2 and InfluxDB 3 databases. It is separate from the main repository used for writting data and managing the databases.
